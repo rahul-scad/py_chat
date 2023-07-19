@@ -1,4 +1,4 @@
-# ChatGPT Clone
+# SI-HIVE GPT
 feel free to improve the code / suggest improvements
 
 <img width="1470" alt="image" src="https://github.com/rahul-scad/py_chat/blob/main/pic/light%20mode.PNG">
