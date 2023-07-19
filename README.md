@@ -1,7 +1,7 @@
 # ChatGPT Clone
 feel free to improve the code / suggest improvements
 
-<img width="1470" alt="image" src="https://user-images.githubusercontent.com/98614666/232768610-fdeada85-3d21-4cf9-915e-a0ec9f3b7a9f.png">
+<img width="1470" alt="image" src="https://github.com/rahul-scad/py_chat/blob/main/pic/light%20mode.PNG">
 
 
 ## Getting Started
