@@ -5,6 +5,7 @@ feel free to improve the code / suggest improvements
 
 
 ## Getting Started
+This is web ui  with django web framework. 
 To get started with this project, you'll need to clone the repository and set up a virtual environment. This will allow you to install the required dependencies without affecting your system-wide Python installation.
 
 ### Prequisites
@@ -38,9 +39,13 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-
+### when ERROR come ,  to  activate virtual environment - error show env\Scripts\Activate.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies
+Run below code -
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
 ### Configure the Application
-Go this path and updated your own API_KEY   "app\static\js\config.js"
+Go this path and update your own API_KEY   "app\static\js\config.js"  
 
 
 ### Running the Application
