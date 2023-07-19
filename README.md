@@ -28,12 +28,13 @@ cd py_chat
 python -m venv venv
 ```
 3.  Activate the virtual environment by running the following command:
-```
+   
  on Windows, the command will be :
 ```
 venv\Scripts\activate
 ```
 4. Install the required dependencies by running the following command:
+
 ```
 pip install -r requirements.txt
 ```
